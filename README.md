@@ -1,5 +1,12 @@
-### Hi there 👋
+### Hi there!
+I'm a Physics student, currently taking my master's in **Physics of Data** at University of Padova, Italy. 
 
+### Some projects I have worked on:
+  - **Parallel implementation of k-means using PySpark**: group project as part of a course in Management of Physical Datasets
+  - **HMM for protein state reconstruction**: we implemented the Baum-Welch and Viterbi algorithm to train a Hidden Markov Model on the single-molecule trajectory of an Hsp-90 protein
+  - [Fake News recognition using Naive Bayes Classifier](https://github.com/s1m0n32001/BayesianFakeNewsRecognition): group project for a course in Advanced Statistics for Physics Analysis
+  - **Game of Life**: Python implementation of Conway's Game of Life (group project)
+  - **Traveling Salesman Problem via Simulated Annealing**: C++ implementation of scale-based Simulated Annealing to find approximated solutions to the Traveling Salesman Problem. Applied it to [Robert Bosch's Art Datasets]([https://link-url-here.org](https://www.math.uwaterloo.ca/tsp/data/art/)
 <!--
 **s1m0n32001/s1m0n32001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
