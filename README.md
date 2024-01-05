@@ -1,4 +1,3 @@
-### Hi there!
 I'm a Physics student, currently taking my master's in **Physics of Data** at University of Padova, Italy. 
 
 ### Some projects I have worked on:
