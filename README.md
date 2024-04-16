@@ -1,11 +1,13 @@
 I'm a Physics student, currently taking my master's in **Physics of Data** at University of Padova, Italy. 
 
-### Some projects I have worked on:
-  - [Parallel implementation of k-means using PySpark](https://github.com/s1m0n32001/kMeansMapReduce): group project as part of a course in Management of Physical Datasets
-  - [Fake News recognition using Naive Bayes Classifier](https://github.com/s1m0n32001/BayesianFakeNewsRecognition): group project for a course in Advanced Statistics for Physics Analysis
-  - [Game of Life](https://github.com/RiccardoTancredi/GameofLife): Python implementation of Conway's Game of Life (group project)
+### Some projects I have worked
+  - [Bayesian SIR](https://github.com/s1m0n32001/BayesianSIR): Bayesian inference on the SIR parameters of Covid data
+  - [Parallel implementation of k-means using PySpark](https://github.com/s1m0n32001/kMeansMapReduce): parallel implementation of the ```kmeans++``` algorithm on a small VM cluster
+  - [Image colorization using CNNs](https://github.com/s1m0n32001/Colorization)
+  - [Fake News recognition using Naive Bayes Classifier](https://github.com/s1m0n32001/BayesianFakeNewsRecognition)
+  - [Game of Life](https://github.com/RiccardoTancredi/GameofLife): Python implementation of Conway's Game of Life, with analysis on pattern persistence (and some fun pixelart)
   - [Traveling Salesman Problem via Simulated Annealing](https://github.com/s1m0n32001/TSP-Art): C++ implementation of scale-based Simulated Annealing to find approximated solutions to the Traveling Salesman Problem. Applied it to [Robert Bosch's Art Datasets](https://www.math.uwaterloo.ca/tsp/data/art/)
-  - HMM for protein state reconstruction: we implemented the Baum-Welch and Viterbi algorithm to train a Hidden Markov Model on the single-molecule trajectory of an Hsp-90 protein
+  - HMM for protein state reconstruction: Implementation of the Baum-Welch and Viterbi algorithm to train a Hidden Markov Model on the single-molecule trajectory of an Hsp-90 protein ([prerint](https://arxiv.org/abs/2402.19207))
 
 <!--
 **s1m0n32001/s1m0n32001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
