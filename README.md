@@ -1,4 +1,4 @@
-I'm a Physics student, currently taking my master's in **Physics of Data** at University of Padova, Italy. 
+I'm a Physics student, finishing my master's in **Physics of Data** at University of Padova, Italy. I'm currently an intern at the Sony Stuttgart Laboratory 1.
 
 ### Some projects I have worked
   - [Bayesian SIR](https://github.com/s1m0n32001/BayesianSIR): Bayesian inference on the SIR parameters of Covid data
