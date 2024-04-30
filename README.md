@@ -1,6 +1,6 @@
 I'm a Physics student, finishing my master's in **Physics of Data** at University of Padova, Italy. I'm currently an intern at the Sony Stuttgart Laboratory 1.
 
-### Some projects I have worked
+### Some projects I have worked on
   - [Bayesian SIR](https://github.com/s1m0n32001/BayesianSIR): Bayesian inference on the SIR parameters of Covid data
   - [Parallel implementation of k-means using PySpark](https://github.com/s1m0n32001/kMeansMapReduce): parallel implementation of the ```kmeans++``` algorithm on a small VM cluster
   - [Image colorization using CNNs](https://github.com/s1m0n32001/Colorization)
