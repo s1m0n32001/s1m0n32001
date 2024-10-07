@@ -1,4 +1,4 @@
-I'm a Physics student, finishing my master's in **Physics of Data** at University of Padova, Italy. I'm currently an intern at the Sony Stuttgart Laboratory 1.
+I'm a Physics student, finishing my master's in **Physics of Data** at University of Padova, Italy. I'm currently an intern at the Sony Stuttgart Laboratory 1, working on Latent Diffusion Models applied to 3D (NeRF) reconstruction.
 
 ### Some projects I have worked on
   - [Bayesian SIR](https://github.com/s1m0n32001/BayesianSIR): Bayesian inference on the SIR parameters of Covid data
