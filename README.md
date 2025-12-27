@@ -1,6 +1,6 @@
 Physics graduate with a background in statistical physics and deep learning 📚 🎸 🏋️‍♂️
 
-### Some projects I have worked on in uni
+### Some projects I have worked on
   - **Sparse-view 3D reconstruction using Latent Diffusion Models**: Thesis project carried out during a six-month internship at SONY SL1 in Stuttgart.
   - **HMM for protein state reconstruction**: Implementation of the Baum-Welch and Viterbi algorithms to train a Hidden Markov Model on the single-molecule time trace of an Hsp-90 protein ([read our paper here!](https://arxiv.org/abs/2402.19207))
   -  [Bayesian SIR](https://github.com/s1m0n32001/BayesianSIR): Bayesian inference on the SIR parameters to model the spreading of Covid infections in 2020.
