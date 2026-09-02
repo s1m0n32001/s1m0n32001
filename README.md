@@ -1,4 +1,4 @@
-Physics graduate with a background in statistical physics and deep learning 📚 🎸 🏋️‍♂️
+Physics graduate with a background in statistical physics and deep learning. Currently 1st PhD student in Computer Science @ Bocconi 📚 🎸 🏋️‍♂️
 
 ### Some projects I have worked on
   - **Sparse-view 3D reconstruction using Latent Diffusion Models**: Thesis project carried out during a six-month internship at SONY SL1 in Stuttgart.
